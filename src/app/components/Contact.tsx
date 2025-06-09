@@ -1,7 +1,5 @@
 'use client'
 
-import Link from 'next/link'
-
 const Contact = () => {
   return (
     <section id="contact" className="py-20 bg-gray-50 dark:bg-gray-800">
