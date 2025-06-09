@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import Image from 'next/image'
 
 const Hero = () => {
   return (
@@ -8,7 +7,7 @@ const Hero = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white animate-fade-in-delay-0">
-              Hi, I'm{' '}
+              Hi, I&apos;m{' '}
               <span className="text-blue-600 dark:text-blue-400">
                 Ayodeji Eluwande
               </span>
