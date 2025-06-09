@@ -57,3 +57,5 @@ The site is configured for deployment on Vercel. Simply connect your repository 
 ## License
 
 MIT
+
+Last updated: Deployment trigger.
